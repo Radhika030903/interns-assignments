@@ -1,3 +1,4 @@
+#intern-assignments
 This repository contains all the challenges completed:
 1. Send an Email
 2. Palindrome Checker
